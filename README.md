@@ -7,7 +7,7 @@ ppt: https://docs.google.com/presentation/d/136U-ommH02nwLFAGIKQukT2bD4ofsh4j/ed
 
 Using the Deep Deterministic Policy Gradient (DDPG) algorithm to practically solve optimization problem for nursing home management </br>
 language: Tensorflow </br>
-paper: https://drive.google.com/file/d/1RkdvdNyQ1ejsWf26hxi__Qupj15QJxm1/view?usp=sharing </br>
+paper: https://drive.google.com/file/d/1tHHT3SfIaWMK_A0dSedttVwZi7gzINQd/view?usp=sharing </br>
 
 Using Unity to build a train simulator </br>
 language: C# </br>
