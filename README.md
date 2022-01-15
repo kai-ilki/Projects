@@ -16,4 +16,5 @@ demo: https://drive.google.com/file/d/1iCQIefJZCCQbT5ehoaRebBCoNbYLEOLf/view?usp
 
 Using Neural Network to predict clothe price </br>
 language: Pytorch </br>
+video: https://drive.google.com/file/d/1A13WtxguIB9I4dfh2YgMqUIgtFgY-Xj2/view?usp=sharing </br>
 code: https://drive.google.com/drive/folders/1G9hGZ01OscqgVir6PvOlNxzgNI62Puxa?usp=sharing </br>
